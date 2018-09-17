@@ -1,0 +1,21 @@
+{
+  "name": "testAddinBootstrap",
+  "supportEmail": "",
+  "version": "0.0.1",
+  "items": [{
+
+    "url": "testAddinBootstrap.html",
+    "path": "",
+    "menuName": {
+      "en": "testAddinBootstrap"
+    },
+
+    "icon": "images/icon.svg"
+  }],
+  "dev": {
+    "root": "testAddinBootstrap",
+    "dist": {
+      "host": "https://pruebabootstrapaddin.azurewebsites.net/"
+    }
+  }
+}

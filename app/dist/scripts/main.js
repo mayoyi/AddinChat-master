@@ -1,0 +1,1 @@
+"use strict";geotab.addin.testAddinBootstrap=function(){return{initialize:function(t,n,i){i()},focus:function(t,n){},blur:function(){}}};
